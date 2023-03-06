@@ -1,0 +1,6 @@
+ler y 
+ler x
+escreva resultado
+ x + y = 1
+
+
